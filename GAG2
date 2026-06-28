@@ -10,6 +10,7 @@ task.spawn(function()
     getgenv().NORMAL_WEBHOOK_URL = "https://discord.com/api/webhooks/1480218057304703066/devxyORzD7swqDO1zZxwyjYeu-mVHDCLgpZ5Of796SlQrwVo36yCa30kd2H_npYZEQhw"
     getgenv().NORMAL_SEEDS = {
         ["Moon Bloom"] = true,
+        ["Hypno Bloom"] = true,
         ["Dragon's Breath"] = true,
         ["Rainbow Seed"] = true,
         ["Ghost Pepper"] = true,
@@ -21,7 +22,7 @@ task.spawn(function()
         ["Golden Dragonfly"] = true,
         ["Robin"] = true,
         ["Bee"] = true,
-        ["Deer"] = true,
+        ["Bear"] = true,
         ["Monkey"] = true,
         ["Ice Serpent"] = true,
         ["Black Dragon"] = true
