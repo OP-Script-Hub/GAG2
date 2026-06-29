@@ -14,6 +14,7 @@ task.spawn(function()
         ["Dragon's Breath"] = true,
         ["Rainbow Seed"] = true,
         ["Ghost Pepper"] = true,
+        ["Mushroom"] = true,
         ["Gold Seed"] = true
     }
     getgenv().NORMAL_PETS = {
@@ -29,6 +30,7 @@ task.spawn(function()
     }
     getgenv().NORMAL_GEARS = {
         ["Super Sprinkler"] = true,
+        ["Trowel"] = true,
         ["Super Watering Can"] = true
     }
     getgenv().NORMAL_PROPS = {
