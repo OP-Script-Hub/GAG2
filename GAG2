@@ -25,7 +25,16 @@ task.spawn(function()
         ["Bear"] = true,
         ["Monkey"] = true,
         ["Ice Serpent"] = true,
-        ["Black Dragon"] = true
+        ["Black Dragon"] = true,
+        ["Mega Raccoon"] = true,
+        ["Mega Rainbow Unicorn"] = true,
+        ["Mega Golden Dragonfly"] = true,
+        ["Mega Rainbow Robin"] = true,
+        ["Mega Rainbow Bee"] = true,
+        ["Rainbow Bear"] = true,
+        ["Rainbow Monkey"] = true,
+        ["Mega Rainbow Ice Serpent"] = true,
+        ["Mega Rainbow Black Dragon"] = true
     }
     getgenv().NORMAL_GEARS = {
         ["Super Sprinkler"] = true,
