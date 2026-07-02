@@ -14,7 +14,8 @@ task.spawn(function()
         ["Dragon's Breath"] = true,
         ["Rainbow Seed"] = true,
         ["Ghost Pepper"] = true,
-        ["Gold Seed"] = true
+        ["Gold Seed"] = true,
+        ["Carrot"] = true
     }
     getgenv().NORMAL_PETS = {
         ["Raccoon"] = true,
